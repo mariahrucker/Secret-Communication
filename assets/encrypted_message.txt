@@ -1,0 +1,1 @@
+// The program automatically populates the encrypted_message.txt file with the encrypted version of the secret message, which is hidden in the input.png file.
